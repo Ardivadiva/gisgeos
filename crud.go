@@ -3,8 +3,7 @@ package gisgeos
 import (
 	"os"
 
-	"github.com/Befous/BackendGin/helpers"
-	"github.com/Befous/BackendGin/models"
+
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
 )
